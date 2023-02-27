@@ -1,4 +1,24 @@
-.header{
+/* .header{
     width: 100;
     height: ;
+} */
+
+
+header{
+    background-color: blue;
+}
+
+
+body{
+margin: 0;
+padding: 0;
+}
+
+nav{
+    display: flex;
+}
+nav p {
+    font-size: 3rem;
+    color: red;
+
 }
